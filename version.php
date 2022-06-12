@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "Version=1.2;";
+echo "Version=1.4;";
 
 /* --------------------------------- ABOUT -------------------------------------
 Original Author: UpLUK
